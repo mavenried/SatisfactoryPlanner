@@ -1,0 +1,47 @@
+[
+  "Production": [
+    { "name": "Miner", "width": 6.0, "length": 14.0 },
+    { "name": "Water Extractor", "width": 20.0, "length": 19.5 },
+    { "name": "Particle Accelerator", "width": 24.0, "length": 38.0 },
+    { "name": "Blender", "width": 18.0, "length": 16.0 },
+    { "name": "Converter", "width": 16.0, "length": 16.0 },
+    { "name": "Assembler", "width": 9.0, "length": 16.0 },
+    { "name": "Refinery", "width": 10.0, "length": 22.0 },
+    { "name": "Manufacturer", "width": 18.0, "length": 20.0 },
+    { "name": "Oil Extractor", "width": 8.0, "length": 14.0 },
+    { "name": "Constructor", "width": 8, "length": 10 },
+    { "name": "Quantum Encoder", "width": 22.0, "length": 50.0 },
+    { "name": "Foundry", "width": 10.0, "length": 9.0 },
+    { "name": "Packager", "width": 8.0, "length": 8.0 },
+    { "name": "Smelter", "width": 5.0, "length": 10.0 }
+  ],
+  "Logistics": [
+    { "name": "Pipeline Junction", "width": 4.0, "length": 4.0 },
+    { "name": "Programmable Splitter", "width": 4.0, "length": 4.0 },
+    { "name": "Smart Splitter", "width": 4.0, "length": 4.0 },
+    { "name": "Conveyor Splitter", "width": 4.0, "length": 4.0 },
+    { "name": "Conveyor Merger", "width": 4.0, "length": 4.0 },
+    { "name": "Priority Merger", "width": 4.0, "length": 4.0 }
+  ],
+  "Power": [
+    { "name": "Alien Power Augmenter", "width": 28.0, "length": 28.0 },
+    { "name": "Coal-Powered Generator", "width": 10.0, "length": 26.0 },
+    { "name": "Biomass Burner", "width": 8.0, "length": 8.0 },
+    { "name": "Nuclear Power Plant", "width": 36.0, "length": 43.0 },
+    { "name": "Fuel-Powered Generator", "width": 20.0, "length": 20.0 }
+  ],
+  "Storage": [
+    { "name": "Fluid Buffer", "width": 6.0, "length": 6.0 },
+    { "name": "Fluid Buffer", "width": 14.0, "length": 14.0 },
+    { "name": "Industrial Storage Container", "width": 5.0, "length": 11.0 },
+    { "name": "Storage Container", "width": 5.0, "length": 11.0 },
+    { "name": "Dimensional Depot", "width": 5.0, "length": 11.0 }
+  ],
+  "Transport": [
+    { "name": "Fluid Freight Platform", "width": 34.0, "length": 16.0 },
+    { "name": "Drone Port", "width": 24.0, "length": 24.0 },
+    { "name": "Truck Station", "width": 16.0, "length": 22.0 },
+    { "name": "Freight Platform", "width": 34.0, "length": 16.0 },
+    { "name": "Train Station", "width": 34.0, "length": 16.0 }
+  ]
+]

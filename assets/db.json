@@ -1,0 +1,33 @@
+[
+      {
+        "name":"Assembler",
+        "display": "ASSEMBLER",
+        "width":9.0,
+        "length":16.0,
+        "i_ports":[
+          {
+            "pos":[
+              -2,
+              8
+            ],
+            "kind":"BeltInput"
+          },
+          {
+            "pos":[
+              2,
+              8
+            ],
+            "kind":"BeltInput"
+          }
+        ],
+        "o_ports":[
+          {
+            "pos":[
+              0,
+              -8
+            ],
+            "kind":"BeltOutput"
+          }
+        ]
+      }
+]
